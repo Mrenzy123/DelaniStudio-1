@@ -33,3 +33,32 @@ form input{
     background-image: url("https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/c_image.jpg");
     color: white;
 }
+#firstinputs {
+   position: relative;
+   bottom: -30px; 
+}
+#inpput1 {
+    width: 378px;
+    position: relative;
+    right: -79px;
+    font-size: 14px;
+}
+#input2 {
+    width: 378px;
+    position: relative;
+    right: 120px;
+    font-size: 14px;
+}
+#thirdinput {
+    width: 785px;
+    position: relative;
+    bottom: -39px;
+    right: 11px;
+    height: 200px;
+    text-align: initial;
+    font-size: 14px;
+}
+#p1 {
+    position: relative;
+    bottom: 10px;
+}
