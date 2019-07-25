@@ -16,5 +16,20 @@
     text-align: center;
 }
 #fifthsection {
-
+    text-align: center;
+}
+#sixthsection {
+    border: 1px solid white;
+    background-image: url("https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/c_image.jpg");
+    color: white;
+    box-sizing: content-box;  
+    width: 1200px;
+    height: 400px;
+    padding: 30px;
+    background-size: contain; 
+    text-align: center;   
+}
+form input{
+    background-image: url("https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/c_image.jpg");
+    color: white;
 }
