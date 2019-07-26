@@ -1,26 +1,78 @@
+@media only screen and (min-width:700px){
 #firstsection {
     border: 1px solid white;
     background-image: url("https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/h_img.jpg");
     color:white;
-    background-size: contain;
+    background-size: cover;
+    text-align: center;
+    box-sizing: content-box;  
+    width: 1200px;
+    height: 600px;
+    padding: 30px;
+}
+.firstsection1 {
+    position: relative;
+    bottom: -190px;
+    font-size: 20px;
+    left: -32px;
+}
+#h1welc {
+    position: relative;
+    bottom: -30px;
+}
+#h1to {
+    position: relative;
+    bottom: -40px;
+}
+#h6amaz {
+    position: relative;
+    bottom: -40px;
+    font-size: 15px;
+}
+#mousepoint {
+    position: relative;
+    bottom: -142px;
 }
 #secondsection {
     text-align: center;
+    margin: auto;
 }
 #thirdsection {
     border: 1px solid white;
     background-image: url("https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/s_image.jpg");
     text-align: center;
+    background-size: cover;
     color: white;
+    box-sizing: content-box;  
+    width: 1200px;
+    height: 300px;
+    padding: 30px;
+    font-size: 15px; 
+}
+.thirdsection1 {
+    position: relative;
+    bottom: -78px;
+    font-size: 15px;
 }
 #fourthsection {
     text-align: center;
+}
+#icons {
+    border: 1px solid white;
+    position: relative;
+    bottom: -18px;
+    width: 1130px;
 }
 #fifthsection {
     text-align: center;
     position: relative;
     width:  84%;
     margin: auto;
+    bottom: -70px;
+}
+.col-md-3 :hover {
+    background-color: white;
+    opacity: 0.3;
 }
 .lastimage {
     /* border: 2px solid white;
@@ -42,7 +94,7 @@
     background-size: contain; 
     text-align: center;   
     position: relative;
-    bottom: -70px;
+    bottom: -150px;
 }
 form input{
     background-image: url("https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/c_image.jpg");
@@ -79,9 +131,13 @@ form input{
 }
 #seventhsection {
     position: relative;
-    bottom: -70px;
+    bottom: -180px;
+    margin: auto;
+    text-align: center;
+    width: 1100px;
 }
 #last {
     position: relative;
-    bottom: -70px;
+    bottom: -30px;
+}
 }
