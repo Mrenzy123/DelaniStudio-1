@@ -63,6 +63,9 @@
     bottom: -18px;
     width: 1130px;
 }
+.hidethem {
+    display: none;
+}
 #fifthsection {
     text-align: center;
     position: relative;
