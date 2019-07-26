@@ -18,10 +18,18 @@
 }
 #fifthsection {
     text-align: center;
+    position: relative;
+    width:  84%;
+    margin: auto;
+}
+.lastimage {
+    /* border: 2px solid white;
+    border-width: 10px; */
 }
 #movedown {
     position: relative;
     bottom: -40px;
+    
 }
 #sixthsection {
     border: 1px solid white;
