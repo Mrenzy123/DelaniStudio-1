@@ -1,4 +1,9 @@
-@media only screen and (min-width:700px){
+@media only screen and (max-width:320px){
+    /* #blackproject{
+        width: 30%;
+    } */
+
+}
 #firstsection {
     border: 1px solid white;
     background-image: url("https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/h_img.jpg");
@@ -77,9 +82,12 @@
     background-color: white;
     opacity: 0.3;
 }
-.lastimage {
-    /* border: 2px solid white;
-    border-width: 10px; */
+#hideit1 {
+    display: none;
+}
+.hide {
+    color:black;
+    margin-top:-89px;
 }
 #movedown {
     position: relative;
@@ -142,5 +150,4 @@ form input{
 #last {
     position: relative;
     bottom: -30px;
-}
 }

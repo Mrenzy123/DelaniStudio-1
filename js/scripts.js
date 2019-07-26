@@ -17,4 +17,13 @@ $(document). ready(function(){
         $("h5#design3").toggle();
         $("p#design3").toggle();
     }); 
+    $("#blackproject").mouseover(function(){
+        $("#hideit1").show();
+        $("#hideit1").addClass("hide")   
+    });
+    $("#blackproject").mouseleave(function(){
+        $("#hideit1").hide();
+         
+    });
+    
 });
