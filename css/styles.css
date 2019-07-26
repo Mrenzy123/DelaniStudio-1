@@ -85,7 +85,56 @@
 #hideit1 {
     display: none;
 }
-.hide {
+.hide1 {
+    color:black;
+    margin-top:-89px;
+}
+#hideit2 {
+    display: none;
+}
+.hide2 {
+    color:black;
+    margin-top:-89px;
+}
+#hideit3 {
+    display: none;
+}
+.hide3 {
+    color:black;
+    margin-top:-89px;
+}
+#hideit4{
+    display: none;
+}
+.hide4 {
+    color:black;
+    margin-top:-89px;
+}
+#hideit5 {
+    display: none;
+}
+.hide5 {
+    color:black;
+    margin-top:-89px;
+}
+#hideit6 {
+    display: none;
+}
+.hide6 {
+    color:black;
+    margin-top:-89px;
+}
+#hideit7 {
+    display: none;
+}
+.hide7 {
+    color:black;
+    margin-top:-89px;
+}
+#hideit8 {
+    display: none;
+}
+.hide8 {
     color:black;
     margin-top:-89px;
 }
@@ -139,6 +188,9 @@ form input{
     font-size: 14px;
     background-color:transparent;
     color: white;
+}
+#btn-submit {
+    
 }
 #seventhsection {
     position: relative;
