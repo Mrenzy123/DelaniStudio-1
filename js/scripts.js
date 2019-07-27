@@ -81,5 +81,5 @@ $(document). ready(function(){
         // $("#lastp").show();
         alert(myName + ", we have received your message. Thank you for reaching out to us.");
         event.preventDefault();
-    })
+    });
 });
