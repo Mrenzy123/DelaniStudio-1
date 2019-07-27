@@ -1,8 +1,16 @@
 @media only screen and (max-width:320px){
-    /* #blackproject{
-        width: 30%;
-    } */
-
+    .firstsection1{
+        width : 40%;
+    }
+    #thirdsection1 {
+        width : 20%;
+    }
+    #fourthsection {
+        width: 20%;
+    }
+    #sixthsection {
+        width: 10%
+    }
 }
 #firstsection {
     border: 1px solid white;
