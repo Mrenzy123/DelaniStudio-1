@@ -1,5 +1,5 @@
 # DELANI STUDIO
-#### By **{List of contributors}**
+#### By Deborah Mwanganjye
 ## Description
 When you work with us, you are part of the team of committed collaborators.
 All aspects of our software development process are intergrated, iterative and agile.
