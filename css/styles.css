@@ -1,3 +1,5 @@
+
+
 @media only screen and (max-width:320px){
     .firstsection1{
         width : 40%;
@@ -11,6 +13,10 @@
     #sixthsection {
         width: 10%
     }
+}
+body {
+    font-family: 'Varela Round', sans-serif;
+ 
 }
 #firstsection {
     border: 1px solid white;
