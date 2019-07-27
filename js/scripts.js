@@ -73,4 +73,13 @@ $(document). ready(function(){
     $("#Giraffe").mouseleave(function(){
         $("#hideit8").hide(); 
     });
+    $("#myform").submit(function(event){
+       var myName = $("input#inpput1").val();
+       var myEmail = $("input#input2").val();
+       var comment1 = $("textarea#thirdinput").val();
+       $(".inpput11").text(myName);
+        // $("#lastp").show();
+        alert(myName + ", we have received your message. Thank you for reaching out to us.");
+        event.preventDefault();
+    })
 });

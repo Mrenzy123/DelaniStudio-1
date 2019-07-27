@@ -190,7 +190,15 @@ form input{
     color: white;
 }
 #btn-submit {
+    position: relative;
+    bottom: -90px;
+}
+#lastp {
+    display: none;
+    font-weight: 700;
     
+    position: relative;
+    bottom: -17px;
 }
 #seventhsection {
     position: relative;
