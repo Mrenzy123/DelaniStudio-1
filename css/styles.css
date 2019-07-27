@@ -2,7 +2,7 @@
 
 @media only screen and (max-width:320px){
     .firstsection1{
-        width : 40%;
+        width : 30%;
     }
     #thirdsection1 {
         width : 20%;
@@ -11,7 +11,7 @@
         width: 20%;
     }
     #sixthsection {
-        width: 10%
+        width: 20%
     }
 }
 body {
