@@ -77,13 +77,16 @@ $(document). ready(function(){
        var myName = $("input#inpput1").val();
        var myEmail = $("input#input2").val();
        var comment1 = $("textarea#thirdinput").val();
-    //    $(".inpput11").text(myName);
-        //  $("#lastp").show();
         if((myName=== "")||(myEmail=== "")||(comment1=== "")){
             alert("Please fill the required space.");
         } else {
         alert(myName + ", we have received your message. Thank you for reaching out to us.");
-        event.preventDefault();
-        }
+        $("#inpput1").val("");
+        $("#input2").val("");
+        $("#thirdinput").val("");
+    }
+    
+    event.preventDefault();
     });
+    
 });
