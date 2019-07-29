@@ -17,6 +17,8 @@ Then we help translate them into effective and elegant solutions.
 * You are done now :heavy_check_mark:
 ## BDD
 #### Behaviour
+* The 'What we do'  icons when clicked should toggle between the respective description of each icon. The description should be centered aligned. The header should be in bold and centered also. 
+* A Hover effect for the -Portfolio - section such that on hover a white box appears with the name of the project inside. The project picture should still be visible in the background.
 * Enter both names
 * Enter valid email
 #### Input Example
@@ -24,6 +26,8 @@ Then we help translate them into effective and elegant solutions.
 * Email
 #### Output Example
 * Approval message
+#### Known Bugs
+* No Bugs , so far
 ## Technologies Used
 * I used html to connect  to javascript file.
 * In used javascript to hold logical contentof the game.
